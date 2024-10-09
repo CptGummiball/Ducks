@@ -1,5 +1,5 @@
 # **Ducks: An Idle Game**  
-![Logo Placeholder](https://via.placeholder.com/150)
+![Logo Placeholder](https://github.com/CptGummiball/Ducks/blob/main/logo.png)
 
 Welcome to **Ducks**, a quirky incremental idle game where you hatch ducks, send them on daring raids, and collect bread crumbs to upgrade your duck-hatching facilities. Watch your duck empire grow as you unlock new, humorous units and facilities, and prepare for future global events!
 
