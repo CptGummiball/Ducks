@@ -31,7 +31,7 @@ These online features will be implemented in the final production phases.
 
 ## **Contributing**
 
-At the moment, we are not accepting forks or external code contributions. However, we encourage you to share your ideas, feedback, or report issues using the [Issues](https://github.com/CptGummiball/Ducks/issues) section of this repository. We value community input and will review suggestions as we continue to develop the game.
+At the moment, we are not accepting external code contributions. (You are allowed to fork the repo) However, we encourage you to share your ideas, feedback, or report issues using the [Issues](https://github.com/CptGummiball/Ducks/issues) section of this repository. We value community input and will review suggestions as we continue to develop the game.
 
 ## **License**
 
