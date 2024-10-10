@@ -1,4 +1,4 @@
-# **Ducks: An Idle Game**  
+# **Ducks: Bread Alert**  
 ![Logo Placeholder](https://github.com/CptGummiball/Ducks/blob/main/logo.png)
 
 Welcome to **Ducks**, a quirky incremental idle game where you hatch ducks, send them on daring raids, and collect bread crumbs to upgrade your duck-hatching facilities. Watch your duck empire grow as you unlock new, humorous units and facilities, and prepare for future global events!
@@ -36,3 +36,44 @@ At the moment, we are not accepting external code contributions. (You are allowe
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+*german*
+# **Ducks: Alarmstufe Brot**  
+![Logo Placeholder](https://github.com/CptGummiball/Ducks/blob/main/logo.png)
+
+Willkommen bei **Ducks**, einem skurrilen, inkrementellen Idle Game, in dem du Enten ausbrütest, sie auf waghalsige Raubzüge schickst und Brotkrumen sammelst, um deine Entenbrutfabriken zu verbessern. Beobachte, wie dein Entenimperium wächst, indem du neue, humorvolle Einheiten und Einrichtungen freischaltest und dich auf zukünftige globale Ereignisse vorbereitest!
+
+## **Spielübersicht**
+
+In **Ducks** ist es dein Ziel, die Entenproduktion zu verwalten und auszubauen, indem du verschiedene Entenarten ausbrütest und sie auf Raubzüge schickst, um Brotkrumen zu sammeln. Diese Krumen können verwendet werden, um neue Einrichtungen freizuschalten und aufzurüsten, die jeweils verschiedene Arten von Enten produzieren, die zu deinem Erfolg beitragen.
+
+### **Hauptmerkmale:**
+- **Entenausbrüten & Raubzüge:** Brüte Enten in spezialisierten Einrichtungen aus und schicke sie auf Raubzüge, um Brotkrumen zu sammeln. Obwohl Enten bei den Raubzügen verloren gehen, bleiben deine Einrichtungen und Upgrades intakt.
+- **Brotkrumen:** Die Ingame-Währung, die verwendet wird, um Enten produzierende Einrichtungen freizuschalten und aufzurüsten, was eine schnellere und effizientere Entenproduktion ermöglicht.
+- **Mehrere lustige Einrichtungen:** Schalte eine Vielzahl von unterhaltsamen und kreativen Entenbrut-Einrichtungen frei, die jeweils einzigartige Einheiten produzieren:
+  - **Brutstation**: Produziert einfache Enten.
+  - **Großes Nest**: Produziert schwere Enten.
+  - **Wolkennest**: Himmelsenten, die die Effizienz anderer Einrichtungen steigern.
+  - **Goldener Teich**: Seltene goldene Enten, die höhere Brotkrumen-Belohnungen generieren.
+  - Und viele weitere zu entdecken!
+  
+### **Geplante Features:**
+- **Lustige, cartoonartige Grafiken:** Das Spiel wird verspielte und farbenfrohe Grafiken bieten, die jede Einrichtung und Entenart mit einem humorvollen, unbeschwerten Stil zum Leben erwecken.
+- **Globale Raubzüge (Zukunft):** Wöchentliche globale Raubzüge, bei denen Spieler ihre Enten kombinieren, um riesige Belohnungen zu verdienen. Spieler werden basierend auf ihrem Gesamteinsatz belohnt, mit der Chance auf einen 200% Brotkrumen-Bonus.
+- **Online-Weltkarte (Zukunft):** Eine globale Karte, die Entenproduktionsstatistiken nach Land anzeigt, damit Spieler sehen können, wo sie in der Entenproduktion stehen.
+- **Cloud-Speicherung (Zukunft):** Sichere deinen Fortschritt in der Cloud und synchronisiere dein Spiel über mehrere Geräte mit zukünftiger Cloud-Speicherunterstützung.
+
+Diese Online-Features werden in den finalen Produktionsphasen implementiert.
+
+## **Entwicklungsstatus**
+
+**Ducks** befindet sich derzeit in aktiver Entwicklung. Die Spielmechanik wird verfeinert, und zusätzliche Features wie globale Raubzüge, Online-Weltkarten und Cloud-Speicherung werden später im Produktionszyklus hinzugefügt.
+
+## **Mitwirken**
+
+Derzeit akzeptieren wir keine externen Codebeiträge. (Du darfst das Repo jedoch forken.) Wir ermutigen dich jedoch, deine Ideen, dein Feedback oder Probleme über den [Issues](https://github.com/CptGummiball/Ducks/issues)-Bereich dieses Repos mitzuteilen. Wir schätzen das Feedback der Community und werden Vorschläge während der weiteren Entwicklung des Spiels prüfen.
+
+## **Lizenz**
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
